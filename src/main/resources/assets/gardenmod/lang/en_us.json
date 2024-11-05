@@ -1,0 +1,31 @@
+{
+  "item.gardenmod.rawcalisalt": "Raw Calisalt",
+  "item.gardenmod.polishadecalisalt": "Polishade Calisalt",
+  "creativetab.creategarden": "Create: Garden",
+  "item.gardenmod.powered_calisalt": "Powered Calisalt",
+  "item.gardenmod.brown_powered_saltpeter": "Brown Powered Saltpeter",
+  "item.gardenmod.nailgarden": "Nail",
+  "item.gardenmod.uv_light": "UV Lamp",
+  "item.gardenmod.clear_saltpeter": "Clear Saltpeter",
+  "item.gardenmod.condesator_ll": "Capacitor LL",
+  "item.gardenmod.condesator_ml": "Capacitor ML",
+  "item.gardenmod.condesator_hl": "Capacitor HL",
+  "item.gardenmod.propeller_garden": "Propeller",
+  "item.gardenmod.resistor_ll": "Resistor LL",
+  "item.gardenmod.resistor_ml": "Resistor ML",
+  "item.gardenmod.resistor_hl": "Resistor HL",
+  "item.gardenmod.microcircuit_ll": "Microcircuit LL",
+  "item.gardenmod.microcircuit_ml": "Microcircuit ML",
+  "item.gardenmod.microcircuit_hl": "Microcircuit HL",
+  "item.gardenmod.rosin": "Rosin",
+  "item.gardenmod.dirt_rosin": "Dirt Rosin",
+
+  "item.clear_saltpeter.desc":"It's seelcel you can more made with thi",
+
+
+
+  "block.gardenmod.deepslate_calisaltore": "Deepslate Calisalt Ore",
+  "block.gardenmod.calisaltore": "Calisalt Ore",
+  "block.gardenmod.garden_house": "Garden House"
+
+}

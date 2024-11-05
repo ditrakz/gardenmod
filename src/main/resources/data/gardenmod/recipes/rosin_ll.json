@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_spruce_log"
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "item": "gardenmod:dirt_rosin"
+    }
+  ]
+}

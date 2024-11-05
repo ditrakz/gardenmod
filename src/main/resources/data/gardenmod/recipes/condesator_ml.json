@@ -1,0 +1,27 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "gardenmod:dielectric"
+    },
+    {
+      "item": "gardenmod:condesator_corpus"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "item": "gardenmod:condesator_ml"
+    }
+  ]
+}

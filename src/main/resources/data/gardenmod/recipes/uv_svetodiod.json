@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "gardenmod:base_uv_svetodiod"
+    },
+    {
+      "item": "minecraft:purple_stained_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "gardenmod:uv_svetodiod"
+    }
+  ]
+}

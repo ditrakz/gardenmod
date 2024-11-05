@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "gardenmod:polishadecalisalt"
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "item": "gardenmod:powered_calisalt"
+    }
+  ]
+}

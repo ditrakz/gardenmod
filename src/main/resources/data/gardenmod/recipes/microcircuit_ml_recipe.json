@@ -1,0 +1,97 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:plates/gold"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 120.0,
+      "item": "gardenmod:microcircuit_ml"
+    },
+    {
+      "chance": 8.0,
+      "item": "create:golden_sheet"
+    },
+    {
+      "chance": 8.0,
+      "item": "create:andesite_alloy"
+    },
+    {
+      "chance": 5.0,
+      "item": "create:cogwheel"
+    },
+    {
+      "chance": 3.0,
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "chance": 2.0,
+      "item": "create:shaft"
+    },
+    {
+      "chance": 2.0,
+      "item": "create:crushed_raw_gold"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:clock"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ml"
+        },
+        {
+          "item": "gardenmod:condesator_ml"
+        }
+      ],
+      "results": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ml"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ml"
+        },
+        {
+          "item": "gardenmod:resistor_ml"
+        }
+      ],
+      "results": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ml"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ml"
+        },
+        {
+          "item": "gardenmod:rosin"
+        }
+      ],
+      "results": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ml"
+        }
+      ]
+    }
+
+  ],
+  "transitionalItem": {
+    "item": "gardenmod:incomplete_microcircut_ml"
+  }
+}

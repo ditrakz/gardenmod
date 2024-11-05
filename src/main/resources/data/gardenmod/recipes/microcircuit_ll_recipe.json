@@ -1,0 +1,70 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:plates/gold"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "chance": 120.0,
+      "item": "gardenmod:microcircuit_ll"
+    },
+    {
+      "chance": 8.0,
+      "item": "create:golden_sheet"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ll"
+        },
+        {
+          "item": "gardenmod:condesator_ll"
+        }
+      ],
+      "results": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ll"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ll"
+        },
+        {
+          "item": "gardenmod:resistor_ll"
+        }
+      ],
+      "results": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ll"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ll"
+        },
+        {
+          "item": "gardenmod:rosin"
+        }
+      ],
+      "results": [
+        {
+          "item": "gardenmod:incomplete_microcircut_ll"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "gardenmod:incomplete_microcircut_ll"
+  }
+}

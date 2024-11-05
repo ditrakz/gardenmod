@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "amount": 250,
+      "fluid": "minecraft:water"
+    },
+    {
+      "count": 1,
+      "item": "gardenmod:powered_calisalt"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:dirt"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "gardenmod:brown_powered_saltpeter"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "amount": 500,
+      "fluid": "minecraft:water"
+    },
+    {
+      "item": "gardenmod:dirt_rosin"
+    },
+    {
+      "item": "gardenmod:dirt_rosin_paper"
+    }
+  ],
+  "results": [
+    {
+      "item": "gardenmod:rosin"
+    }
+  ]
+}

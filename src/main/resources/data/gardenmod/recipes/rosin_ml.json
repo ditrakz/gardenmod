@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:water"
+    },
+    {
+      "count": 2,
+      "item": "gardenmod:dirt_rosin"
+    }
+  ],
+  "results": [
+    {
+      "item": "gardenmod:dirt_rosin_paper"
+    }
+  ]
+}

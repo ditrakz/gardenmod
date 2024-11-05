@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "gardenmod:quartz_sand"
+    },
+    {
+      "item": "gardenmod:quartz_sand"
+    },
+    {
+      "item": "gardenmod:quartz_sand"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "gardenmod:quartz_glass_light"
+    }
+  ]
+}

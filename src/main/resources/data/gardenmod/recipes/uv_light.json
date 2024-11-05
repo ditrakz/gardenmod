@@ -1,0 +1,20 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "gardenmod:base_uv_light"
+    },
+    {
+      "item": "gardenmod:uv_svetodiod"
+    },
+    {
+      "item": "gardenmod:quartz_glass_light"
+    }
+  ],
+  "results": [
+    {
+      "item": "gardenmod:uv_light"
+    }
+  ]
+}
